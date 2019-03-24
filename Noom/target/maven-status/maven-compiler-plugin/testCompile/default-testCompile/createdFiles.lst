@@ -1,0 +1,9 @@
+pages/HomePage.class
+pages/UpdateInfoDialogPage.class
+SignupButtonTest.class
+pages/LandingPage.class
+helper/Helper.class
+EmailLoginTest.class
+pages/LoginPage.class
+pages/LoginWaitingPage.class
+pages/EmailLoginPage.class
